@@ -899,13 +899,13 @@ nav ul li a i{
 }
 
 .cleft{
-    flex-basis: 49%;
+    flex-basis: 43%;
 }
 
 .cleft img{
     background-size: cover;
     background-position: center;
-    width: 100%;
+/*     width: 100%; */
 }
 
 .cright form{
